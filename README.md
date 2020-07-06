@@ -1,5 +1,5 @@
 # Risk-Aversion
-"The role of risk aversion in a sovereign default model of polarization and political instability"
+"The role of risk aversion in a sovereign default model of polarization and political instability", joint work with Enes Sunel, https://www.sciencedirect.com/science/article/pii/S1094202518304873
     
     1) Description of files for table and figure replications:
         a. Solving model for the benchmark parameterization with political risk (Column 3 of Table 2 in the manuscript): 
